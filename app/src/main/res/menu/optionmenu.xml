@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/infodaerah"
+        android:title="Informasi Daerah"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/callcenter"
+        android:title="Pusat Panggilan"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/About"
+        android:title="Tentang Aplikasi"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Maps"
+        android:title="Maps"
+        app:showAsAction="never"/>
+
+</menu>

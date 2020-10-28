@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497850810330",
+    "firebase_url": "https://lbsaccidentprone.firebaseio.com",
+    "project_id": "lbsaccidentprone",
+    "storage_bucket": "lbsaccidentprone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497850810330:android:f024fc62d5d11100580ae3",
+        "android_client_info": {
+          "package_name": "com.example.daerahrawankecelakaanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497850810330-g31vh9pemn034uq7hg054eo376m30u5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daerahrawankecelakaanapp",
+            "certificate_hash": "94d123dd8010f1c38d655a22a56befbca553ef48"
+          }
+        },
+        {
+          "client_id": "497850810330-nqdgt4sr81j74225d8h1rrjh0eoun5hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRNMzPnV-2vHWCPQYINybXMvqq5h46n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497850810330-nqdgt4sr81j74225d8h1rrjh0eoun5hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
